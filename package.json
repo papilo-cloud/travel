@@ -1,0 +1,16 @@
+{
+  "name": "meadowlark.js",
+  "version": "1.0.0",
+  "description": "A Travel Website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon meadowlark.js"
+  },
+  "author": "abdul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1"
+  }
+}
